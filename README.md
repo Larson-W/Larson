@@ -32,7 +32,7 @@
 <br /> 
 
 - 📫 How to reach me:<br>
-  - **Instagram:** <a href = "https://www.instagram.com/Larson560"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+  - **Instagram:** <a href = "https://www.instagram.com/_Larson560"> Instagram </a>&nbsp;&nbsp;
   - **Discord: Larson#2799**
   - **Mail: larson@veachhosting.eu**
 

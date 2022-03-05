@@ -34,7 +34,7 @@
 - 📫 How to reach me:<br>
   - **Instagram:** <a href = "https://www.instagram.com/_Larson560"> Instagram </a>&nbsp;&nbsp;
   - **Discord: Larson#2799**
-  - **Mail: larson@veachhosting.eu**
+  - **Mail: info@larsonwinterswijk.nl**
 
 *************
 

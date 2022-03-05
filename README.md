@@ -32,7 +32,6 @@
 <br /> 
 
 - 📫 How to reach me:<br>
-  - **Instagram:** <a href = "https://www.instagram.com/_Larson560"> Instagram </a>&nbsp;&nbsp;
   - **Discord: Larson#2799**
   - **Mail: info@larsonwinterswijk.nl**
 

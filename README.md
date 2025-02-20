@@ -25,7 +25,7 @@
 <br /> 
 
 - 📫 How to reach me:<br>
-  - **Discord: Larson#2799**
+  - **Discord: Larson56**
   - **Mail: info@larsonwinterswijk.nl**
 
 *************

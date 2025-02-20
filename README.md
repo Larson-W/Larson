@@ -22,9 +22,11 @@
 </p>
 
 
-**I am Into ,**
-**Web, Java, Javascript**
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ![Larson's Github Stats](https://github-readme-stats.vercel.app/api?username=Larson-W&show_icons=true&title_color=ffffff&icon_color=000000&text_color=363636&bg_color=8f8f8f)

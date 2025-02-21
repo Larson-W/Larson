@@ -20,7 +20,7 @@
 </picture>
 
 
-![Larson's Github Stats](https://github-readme-stats.vercel.app/api?username=Larson-W&show_icons=true&theme=onedark)
+![Larson's Github Stats](https://github-readme-stats.vercel.app/api?username=Larson-W&show_icons=true&theme=merko)
 
 <br /> 
 

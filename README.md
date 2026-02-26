@@ -3,7 +3,7 @@
 
 <!--
 **Lars70/Lars70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> My name is Larson! I'm 22 years old and mostly program websites, programs & mobile applications!
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> My name is Larson! I'm 23 years old and mostly program websites, programs & mobile applications!
 - 🔭 I’m currently working on **too many projects.**
 - 🌱 I’m currently learning **C# & SwiftUI**
 - 👯 I’m looking to collaborate on **cool new and unique projects.**
